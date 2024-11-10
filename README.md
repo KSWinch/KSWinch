@@ -8,7 +8,7 @@ Im a passionate developer that always enjoys a challenge and learning new things
 
 * 🌍  I'm based in Ottawa
 * ✉️  You can contact me at [KyleSWinch@outlook.com](mailto:KyleSWinch@outlook.com)
-* 🚀  I'm currently working on [Official Kings Hockey](kings-hockey.leedro.ca)
+* 🚀  I'm currently working on [Official Kings Hockey](http://kings-hockey.leedro.ca)
 * 🧠  I'm learning React
 
 <a href="https://www.github.com/KSWinch" target="_blank" rel="noreferrer"><img
