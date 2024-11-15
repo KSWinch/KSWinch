@@ -35,7 +35,8 @@ src="https://img.shields.io/github/followers/KSWinch?logo=github&style=for-the-b
 <a href="http://www.github.com/KSWinch">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KSWinch&theme=2077"/>
  <br>
-<a href="http://www.github.com/KSWinch"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KSWinch&stroke=03d8f3&background=141321&ring=ff0055&fire=3382ed&currStreakNum=03d8f3&currStreakLabel=fd014d&sideNums=03d8f3&sideLabels=fd014d&dates=03d8f3&hide_border=true" /></a>
+<a href="http://www.github.com/KSWinch"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KSWinch&stroke=03d8f3&background=141321&ring=ff0055&fire=3382ed&currStreakNum=03d8f3&currStreakLabel=fd014d&sideNums=03d8f3&sideLabels=fd014d&dates=03d8f3&hide_border=true" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KSWinch&theme=city-lights"  /></a>
  <br>
   <a href="https://github.com/KSWinch">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KSWinch&theme=2077" alt="KSWinch GitHub Contribution"/>
