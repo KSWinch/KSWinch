@@ -1,5 +1,5 @@
 <a href="https://komarev.com/ghpvc/?username=KSWinch">
-  <img align="right" src="https://komarev.com/ghpvc/?username=KSWinch&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=KSWinch&label=Visitors&color=02d0eb&style=flat" alt="Profile visitor" />
 </a><br><br>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kyle Winch
