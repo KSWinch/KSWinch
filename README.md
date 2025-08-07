@@ -41,7 +41,9 @@ src="https://img.shields.io/github/followers/KSWinch?logo=github&style=for-the-b
 <b>My GitHub Stats</b>
 
 <div align='center'>
- <a href="https://github.com/KSWinch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSWinch&langs_count=10&title_color=fd014d&text_color=02d0eb&icon_color=26f0cb&bg_color=141321&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/KSWinch" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSWinch&langs_count=10&title_color=fd014d&text_color=02d0eb&icon_color=26f0cb&bg_color=141321&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=8500" alt="Top Languages" />
+</a>
 <br>
 <a href="http://www.github.com/KSWinch">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KSWinch&theme=2077"/>
