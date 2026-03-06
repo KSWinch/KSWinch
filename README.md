@@ -17,7 +17,7 @@ Junior developer
 
 Im a passionate developer that always enjoys a challenge and learning new things.
 
-* 🌍  I'm based in Ottawa
+* 🌍  I'm based in Ottawa Canada
 * ✉️  You can contact me at [KyleSWinch@outlook.com](mailto:KyleSWinch@outlook.com)
 * 🚀  I'm currently working on [Official Kings Hockey](http://kings-hockey.leedro.ca)
 * 🧠  I'm learning React
