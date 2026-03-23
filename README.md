@@ -4,7 +4,12 @@
 <p align="center">
   <a href="https://kswinch.github.io">
   <img alt="Static Badge" src="https://img.shields.io/badge/Website-KyleSWinch?style=for-the-badge&logoSize=auto&color=fd014d&link=https%3A%2F%2Fkswinch.github.io%2FKSWinch-Portfolio%2F">
+  <a href="https://www.linkedin.com/in/kyleswinch/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&color=%2317AEB9" />
+  </a>
 </p>
+
+
 
 
 
