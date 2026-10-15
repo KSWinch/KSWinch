@@ -17,7 +17,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kyle Winch
 ==================================================================================================================================
 
-Junior developer
+Software Developer
 ----------------
 
 Im a passionate developer that always enjoys a challenge and learning new things.
